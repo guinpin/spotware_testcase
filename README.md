@@ -37,7 +37,6 @@ pip install -r requirements.txt
 HF_TOKEN=your_huggingface_token
 SMITH_TOKEN=your_langchain_hub_token
 ```
-Download the dataset from Kaggle and place netflix_titles.csv inside the data/ folder.
 
 ## Run the app
 ```bash
