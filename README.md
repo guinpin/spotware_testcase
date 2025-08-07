@@ -26,7 +26,7 @@ This FastAPI app uses LangGraph and LangChain to answer questions about Netflix 
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-name/netflix-rag.git
-cd netflix-rag
+cd spotware_testcase
 ```
 2. Install dependencies:
 ```bash
